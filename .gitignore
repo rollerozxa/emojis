@@ -1,0 +1,6 @@
+twemojis/
+bitmap/
+
+# exclude some more... questionable emojis
+horny*
+bitmap/i_wish_this_was_me.png
