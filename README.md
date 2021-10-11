@@ -26,3 +26,5 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 | :picturing:               | ![picturing](picturing_50x.png)                             |
 | :playing_with_paperclips: | ![playing_with_paperclips](playing_with_paperclips_50x.png) |
 | :scared_shitless:         | ![scared_shitless](scared_shitless_50x.png)                 |
+| :worried_grin:            | ![worried_grin](worried_grin_50x.png)                       |
+| :worried_grin2:           | ![worried_grin2](worried_grin2_50x.png)                     |
