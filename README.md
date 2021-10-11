@@ -20,6 +20,7 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 | :flushed_sunglasses:      | ![flushed_sunglasses](flushed_sunglasses_50x.png)           |
 | :flushed_thinking:        | ![flushed_thinking](flushed_thinking_50x.png)               |
 | :flushed_toilet:          | ![flushed_toilet](flushed_toilet_50x.png)                   |
+| :flushed_vomiting:        | ![flushed_vomiting](flushed_vomiting_50x.png)               |
 | :flushed_without_blush:   | ![flushed_without_blush](flushed_without_blush_50x.png)     |
 | :flushed_woozy:           | ![flushed_woozy](flushed_woozy_50x.png)                     |
 | :picturing:               | ![picturing](picturing_50x.png)                             |
