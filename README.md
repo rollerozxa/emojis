@@ -19,6 +19,7 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 | :flushed_jerma_sus:       | ![flushed_jerma_sus](flushed_jerma_sus_50x.png)             |
 | :flushed_nerd:            | ![flushed_nerd](flushed_nerd_50x.png)                       |
 | :flushed_raised_eyebrow:  | ![flushed_raised_eyebrow](flushed_raised_eyebrow_50x.png)   |
+| :flushed_raised_eyebrow2: | ![flushed_raised_eyebrow2](flushed_raised_eyebrow2_50x.png) |
 | :flushed_sick:            | ![flushed_sick](flushed_sick_50x.png)                       |
 | :flushed_smile:           | ![flushed_smile](flushed_smile_50x.png)                     |
 | :flushed_sunglasses:      | ![flushed_sunglasses](flushed_sunglasses_50x.png)           |
