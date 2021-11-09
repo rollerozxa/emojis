@@ -7,6 +7,7 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 
 | Discordian Name           | Image                                                       |
 | ------------------------- | ----------------------------------------------------------- |
+| :big_eyed_weary:          | ![big_eyed_weary](big_eyed_weary_50x.png)                   |
 | :fake_sleeping:           | ![fake_sleeping](fake_sleeping_50x.png)                     |
 | :flushed_angry:           | ![flushed_angry](flushed_angry_50x.png)                     |
 | :flushed_bed:             | ![flushed_bed](flushed_bed_50x.png)                         |
