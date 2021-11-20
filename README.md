@@ -31,6 +31,7 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 | :flushed_vomiting:          | ![flushed_vomiting](flushed_vomiting_50x.png)                   |
 | :flushed_without_blush:     | ![flushed_without_blush](flushed_without_blush_50x.png)         |
 | :flushed_woozy:             | ![flushed_woozy](flushed_woozy_50x.png)                         |
+| :greater_w_less:            | ![greater_w_less](greater_w_less_50x.png)                       |
 | :picturing:                 | ![picturing](picturing_50x.png)                                 |
 | :playing_with_paperclips:   | ![playing_with_paperclips](playing_with_paperclips_50x.png)     |
 | :samsung_grimacing_twemoji: | ![samsung_grimacing_twemoji](samsung_grimacing_twemoji_50x.png) |
