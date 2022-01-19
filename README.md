@@ -26,6 +26,7 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 | :flushed_rolling:           | ![flushed_rolling](flushed_rolling_50x.png)                     |
 | :flushed_sick:              | ![flushed_sick](flushed_sick_50x.png)                           |
 | :flushed_smile:             | ![flushed_smile](flushed_smile_50x.png)                         |
+| :flushed_star:              | ![flushed_star](flushed_star_50x.png)                           |
 | :flushed_sunglasses:        | ![flushed_sunglasses](flushed_sunglasses_50x.png)               |
 | :flushed_thinking:          | ![flushed_thinking](flushed_thinking_50x.png)                   |
 | :flushed_toilet:            | ![flushed_toilet](flushed_toilet_50x.png)                       |
