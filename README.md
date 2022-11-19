@@ -12,6 +12,7 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 | :fake_sleeping:             | ![fake_sleeping](fake_sleeping_50x.png)                         |
 | :flushed_angry:             | ![flushed_angry](flushed_angry_50x.png)                         |
 | :flushed_bed:               | ![flushed_bed](flushed_bed_50x.png)                             |
+| :flushed_bread:             | ![flushed_bread](flushed_bread_50x.png)                         |
 | :flushed_clown:             | ![flushed_clown](flushed_clown_50x.png)                         |
 | :flushed_cowboy:            | ![flushed_cowboy](flushed_cowboy_50x.png)                       |
 | :flushed_crying:            | ![flushed_crying](flushed_crying_50x.png)                       |
