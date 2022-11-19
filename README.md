@@ -47,3 +47,6 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 | :sunglasses_sob:            | ![sunglasses_sob](sunglasses_sob_50x.png)                       |
 | :worried_grin:              | ![worried_grin](worried_grin_50x.png)                           |
 | :worried_grin2:             | ![worried_grin2](worried_grin2_50x.png)                         |
+
+## License
+All these emojis are derivatives of Twemoji emojis. Licensed under CC-BY 4.0.
