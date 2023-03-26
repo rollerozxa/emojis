@@ -42,6 +42,7 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 | :greater_w_less:            | ![greater_w_less](greater_w_less_50x.png)                       |
 | :nerd_clown:                | ![nerd_clown](nerd_clown_50x.png)                               |
 | :nerd_hearts:               | ![nerd_hearts](nerd_hearts_50x.png)                             |
+| :nerd_pensive:              | ![nerd_pensive](nerd_pensive_50x.png)                           |
 | :owo:                       | ![owo](owo_50x.png)                                             |
 | :picturing:                 | ![picturing](picturing_50x.png)                                 |
 | :playing_with_paperclips:   | ![playing_with_paperclips](playing_with_paperclips_50x.png)     |
