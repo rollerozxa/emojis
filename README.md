@@ -46,6 +46,7 @@ They're available as vector files, or as PNG files (512x512 and 50x50).
 | :owo:                       | ![owo](owo_50x.png)                                             |
 | :picturing:                 | ![picturing](picturing_50x.png)                                 |
 | :playing_with_paperclips:   | ![playing_with_paperclips](playing_with_paperclips_50x.png)     |
+| :pleading_hearts:           | ![pleading_hearts](pleading_hearts_50x.png)                     |
 | :samsung_grimacing_twemoji: | ![samsung_grimacing_twemoji](samsung_grimacing_twemoji_50x.png) |
 | :scared_shitless:           | ![scared_shitless](scared_shitless_50x.png)                     |
 | :sunglasses_sob:            | ![sunglasses_sob](sunglasses_sob_50x.png)                       |
